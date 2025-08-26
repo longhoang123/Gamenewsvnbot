@@ -101,7 +101,7 @@ def send_news_to_chat(chat_id):
 
     sources = [
         ("🎮 GameK", "http://gamek.vn/home.rss"),
-        ("🎯 IGN", "https://feeds.ign.com/ign/all"),
+        ("🎯 IGN", "https://feeds.feedburner.com/ign/news"),
         ("📱 Pocket Gamer", "https://www.pocketgamer.com/news/index.rss"),
         ("🎲 Gematsu", "https://www.gematsu.com/feed"),
     ]
