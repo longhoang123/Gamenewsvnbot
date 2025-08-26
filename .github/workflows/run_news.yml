@@ -2,7 +2,7 @@ name: Send Gaming News
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # mỗi 10 phút
+    - cron: '0 * * * *' # mỗi 1 giờ
   workflow_dispatch:
 
 jobs:
